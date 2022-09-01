@@ -25,10 +25,13 @@
 <p align="center">
   <a href="https://github.com/PiyushKanungo"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=PiyushKanungo&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PiyushKanungoi&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PiyushKanungo&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushkanungo&show_icons=true&locale=en" alt="piyushkanungo" /></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PiyushKanungo/count.svg" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkanungo&" alt="piyushkanungo" /></p>
  
