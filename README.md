@@ -29,5 +29,5 @@
     </span></a>
 
 
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkanungo&,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight" alt="piyushkanungo" /></p>
+
  
