@@ -28,6 +28,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PiyushKanungo&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
 
-
+## Snake eats
+![snake gif](https://github.com/PiyushKanungo/PiyushKanungo/blob/output/github-contribution-grid-snake.gif)
 
  
